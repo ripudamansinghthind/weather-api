@@ -1,2 +1,2 @@
 # weather-api
-simple web-api
+simple weather-api
