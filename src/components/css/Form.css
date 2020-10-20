@@ -1,0 +1,18 @@
+input {
+    display: block;
+}
+
+.hbtn {
+    display: block;
+    padding: 8px 20px;
+    margin: 20px 10px;
+    text-align: center;
+    border: 2px solid #457b9d;
+    white-space: nowrap;
+}
+
+.hb-fill-top-rev-bg-br:hover {
+    background: transparent none repeat scroll 0% 0%;
+    color: #457b9d;
+    transition: all 0.3s ease 0s;
+} 
